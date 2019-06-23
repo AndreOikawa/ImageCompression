@@ -1,0 +1,10 @@
+C:\Users\André\source\repos\ImageCompresser\ImageCompresser\obj\Debug\ImageCompresser.csprojAssemblyReference.cache
+C:\Users\André\source\repos\ImageCompresser\ImageCompresser\obj\Debug\ImageCompresser.Form1.resources
+C:\Users\André\source\repos\ImageCompresser\ImageCompresser\obj\Debug\ImageCompresser.Properties.Resources.resources
+C:\Users\André\source\repos\ImageCompresser\ImageCompresser\obj\Debug\ImageCompresser.csproj.GenerateResource.cache
+C:\Users\André\source\repos\ImageCompresser\ImageCompresser\obj\Debug\ImageCompresser.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\ImageCompresser\ImageCompresser\bin\Debug\ImageCompresser.exe.config
+C:\Users\André\source\repos\ImageCompresser\ImageCompresser\bin\Debug\ImageCompresser.exe
+C:\Users\André\source\repos\ImageCompresser\ImageCompresser\bin\Debug\ImageCompresser.pdb
+C:\Users\André\source\repos\ImageCompresser\ImageCompresser\obj\Debug\ImageCompresser.exe
+C:\Users\André\source\repos\ImageCompresser\ImageCompresser\obj\Debug\ImageCompresser.pdb
